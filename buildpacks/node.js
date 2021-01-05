@@ -10,8 +10,6 @@ It's used for traditional web sites and back-end API services, but was designed 
 Use of the API Connection is est. for connection purpose and keeping your stuff private while creating a node for cryptocurrency also using Mircosoft 
 or Windows systems helps with the creation of the blockchain node or atom-node.
 
-# Source 
-https://learn.vonage.com/blog/2020/04/24/connect-to-the-ethereum-blockchain-with-node-js-and-vonage-dr
 
 using this site to help as well for node.js building a atom-node. Make an account and press forth to node.js node building purposes for blockchain 
 and cryptocurrency linking and sending and receiving payments keeping a log of your transactions in your atom-ledger. 
