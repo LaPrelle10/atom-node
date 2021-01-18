@@ -1,5 +1,5 @@
 # atom-node
-A cryptocurrency blockchain "XLM" digital coin. Atom-node is a way for a user to connect and successfully follow transactions or connect for making side-money same goes with staking.
+A cryptocurrency blockchain "XLM" digital coin. Atom-node is a way for a user to connect and successfully follow transactions or connect for making side-money same goes with staking. Atom-node domain :  https://atom-node.herokuapp.com/
 
 # Source 
 Web-link atom_node is a pre-built node on the http://heroku.com web link. Application on http://github.com/market link for locations.
