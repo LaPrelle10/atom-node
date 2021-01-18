@@ -1,0 +1,40 @@
+# JawsDB 
+# web application 
+
+Connection for atom-node :
+
+Connection String 
+mysql://mpybmhwq352v1xbs:u20ixtwraedac8g2@klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/kz9qtgfaah2fje34
+
+Host : 	klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+Username : mpybmhwq352v1xbs
+Password : u20ixtwraedac8g2
+Port : 3306
+Database : kz9qtgfaah2fje34
+
+# Server Status : atom-node 
+
+Status : AVAILABLE
+Max Storage : 0.005 GB
+Backup Window : 	05:50-06:20 UTC
+Maintenance Window : SUN:06:38-SUN:07:08 UTC
+
+
+REGION	                  STATUS
+Asia Pacific (Singapore)	Available
+
+Asia Pacific (Sydney)     Available
+
+Asia Pacific (Tokyo)	    Available
+
+EU (Frankfurt)	          Available
+
+EU (Ireland)	            Available
+
+South America (Sao Paulo)	Available
+
+US East (N. Virginia)   	Available
+
+US West (N. California)	  Available
+
+US West (Oregon)        	Available
